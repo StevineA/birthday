@@ -1,0 +1,7 @@
+body{
+    background-color: bisque;
+}
+#entete{
+    display: flex;
+    flex-direction: column;
+}
